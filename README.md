@@ -2,7 +2,7 @@
 
 👋 Seja bem-vinda(o)!
 
-Este repositório contém as aulas do curso e os testes criados que criei durante o curso de Cypress Intermediário da [**Escola Talking About Testing**](https://udemy.com/user/walmyr)❤️
+Este repositório contém as aulas do curso e os testes que criei durante o curso de Cypress Intermediário da [**Escola Talking About Testing**](https://udemy.com/user/walmyr)!
 
 ## Durante o curso de testes automatizados com Cypress (intermediário) eu aprendi:
 
